@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xx/rxp+vdQ+gfR12SmuUZKLI/1qkicntDzMv1s0X54eRDUFyStd/mp4L0H1o7xszEvukP/vBlsyP5kN4agmgfw==",
+  "success": true,
+  "projectFilePath": "/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Application/CrowdFunding.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/mueedhussain/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,73 @@
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.deps.json
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.runtimeconfig.json
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfoInputs.cache
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfo.cs
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.csproj.CoreCompileInputs.cache
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/refint/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.genruntimeconfig.cache
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/ref/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.sourcelink.json
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.deps.json
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.runtimeconfig.json
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfoInputs.cache
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfo.cs
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.csproj.CoreCompileInputs.cache
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/refint/CrowdFunding.Domain.dll
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.genruntimeconfig.cache
+/Users/talhahussain/Developer/Mueed FYP/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/ref/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.deps.json
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.runtimeconfig.json
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfoInputs.cache
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfo.cs
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.csproj.CoreCompileInputs.cache
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.sourcelink.json
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/refint/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.genruntimeconfig.cache
+/Users/mueedhussain/Desktop/FinalProject/crowdfunding-app/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/ref/CrowdFunding.Domain.dll
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.deps.json
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.runtimeconfig.json
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfoInputs.cache
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfo.cs
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.csproj.CoreCompileInputs.cache
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/refint/CrowdFunding.Domain.dll
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.genruntimeconfig.cache
+/Users/talhahussain/Desktop/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/ref/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.deps.json
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.runtimeconfig.json
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/bin/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfoInputs.cache
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.AssemblyInfo.cs
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.csproj.CoreCompileInputs.cache
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.sourcelink.json
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/refint/CrowdFunding.Domain.dll
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.pdb
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/CrowdFunding.Domain.genruntimeconfig.cache
+/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/obj/Debug/net7.0/ref/CrowdFunding.Domain.dll

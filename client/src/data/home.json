@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "title": "CryptoPledge Support That Grows",
+    "description": "Crypto makes it quick. You make it possible!",
+    "cta1": {
+      "label": "Post Campaign",
+      "link": "/campaign/post"
+    },
+    "cta2": {
+      "label": "Support Project",
+      "link": "/#active"
+    }
+  },
+  "howItWorks": {
+    "variant": "steps",
+    "data": {
+      "title": "How BitRaise Works?",
+      "description": "BitRaise simplifies the process of crowdfunding by leveraging blockchain technology for secure, transparent transactions. Here's how you can get involved, whether you're aiming to support a cause or kickstart your project.",
+      "featuredItems": [
+        {
+          "title": "Connect Your Wallet",
+          "desc": "Start by connecting your crypto wallet. We support major wallets for seamless transactions, ensuring your contributions are swift and secure."
+        },
+        {
+          "title": "Browse or Post Campaigns",
+          "desc": "Explore active campaigns needing support or post your own campaign. BitRaise makes it easy to find causes you care about or share your visionary project with the world."
+        },
+        {
+          "title": "Contribute or Raise Funds",
+          "desc": "Contribute to campaigns using cryptocurrency or raise funds for your project. Every transaction is recorded on the blockchain, offering unparalleled transparency and trust."
+        }
+      ]
+    }
+  },
+  "vision": {
+    "title": "BitRaise: Decentralized Blockchain Crowdfunding",
+    "desc": "BitRaise empowers creators by connecting them directly with backers on a secure, transparent blockchain platform. This decentralized approach ensures every transaction is immutable, promoting trust and community-driven innovation."
+  },
+  "collections": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Eco-Friendly Water Bottles",
+        "desc": "Support our mission to reduce plastic waste with our innovative water bottles.",
+        "requestedFunds": 5000,
+        "deadline": "2024-03-15",
+        "category": "technology",
+        "status": "active"
+      },
+      {
+        "id": 2,
+        "title": "Community Art Project",
+        "desc": "Bringing local artists together to beautify our neighborhood.",
+        "requestedFunds": 3000,
+        "deadline": "2024-04-20",
+        "category": "technology",
+        "status": "active"
+      },
+      {
+        "id": 3,
+        "title": "Tech for Education",
+        "desc": "Help us provide modern technology to underprivileged schools.",
+        "requestedFunds": 10000,
+        "deadline": "2024-05-30",
+        "category": "technology",
+        "status": "active"
+      },
+      {
+        "id": 4,
+        "title": "Urban Green Spaces",
+        "desc": "Creating green spaces in urban areas for everyone to enjoy.",
+        "requestedFunds": 7500,
+        "deadline": "2024-06-10",
+        "category": "technology"
+      },
+      {
+        "id": 5,
+        "title": "Renewable Energy Start-Up",
+        "desc": "Invest in the future of clean energy with our new solar panel technology.",
+        "requestedFunds": 20000,
+        "deadline": "2024-07-01",
+        "category": "technology",
+        "status": "active"
+      },
+      {
+        "id": 6,
+        "title": "Wildlife Conservation",
+        "desc": "Join us in protecting endangered species and their natural habitats.",
+        "requestedFunds": 12000,
+        "deadline": "2024-08-15",
+        "category": "technology",
+        "status": "active"
+      },
+      {
+        "id": 7,
+        "title": "Community Library Renewal",
+        "desc": "Revitalizing our local library to encourage reading and education.",
+        "requestedFunds": 6000,
+        "deadline": "2024-09-05",
+        "category": "technology",
+        "status": "active"
+      }
+    ]
+  },
+  "milestones": [
+    {
+      "title": "Development",
+      "desc": "Enhancing the AI's capabilities to provide personalized learning experiences, including grammar, pronunciation, and cultural nuances."
+    },
+    {
+      "title": "App creating",
+      "desc": "Building a user-friendly app that allows learners to study anytime, anywhere, on any device."
+    },
+    {
+      "title": "Content Expansion",
+      "desc": "Developing a wide range of learning materials for various languages to cater to learners at all levels."
+    },
+    {
+      "title": "Testing and Quality assurance",
+      "desc": "Ensuring the platform is reliable, effective, and free from glitches, providing a seamless learning experience."
+    }
+  ],
+  "supporters": [
+    {
+      "walletAddress": "0x95222290DD7278Aa3Ddd389Cc1E1d165CC4BAfe5",
+      "amountEth": 30
+    },
+    {
+      "walletAddress": "0x763c396673F9c391DCe3361A9A71C8E161388000",
+      "amountEth": 25
+    },
+    {
+      "walletAddress": "0x763c396673F9c391DCe3361A9A71C8E161388000",
+      "amountEth": 90
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujZH14Wv+PgvDbaRKdNgX/0hwC1Psgf0K6AgJQTTtwH0zhezzPfoWOjxRomBL1G/hXzvZpHUnYsbTvYQyjqyfg==",
+  "success": true,
+  "projectFilePath": "/Users/mueedhussain/Desktop/FYP/crowdfunding-app2/backend/CrowdFunding/CrowdFunding.Domain/CrowdFunding.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/mueedhussain/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/mueedhussain/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
